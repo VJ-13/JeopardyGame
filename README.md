@@ -3,7 +3,7 @@ A java representation of a classical game board Jeopardy. It shows a board from 
 
 
 # Requirements
--Java
--Java/text editor
+-Java 3.0 or higher
+-Code editor
 
 By: Virendra Jethra
