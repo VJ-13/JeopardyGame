@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Jeopard Game Description 
 
-You can use the [editor on GitHub](https://github.com/vsjethra/JeopardyGame/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+A java representation of a classical game board Jeopardy. It shows a board from which you pick a point that represent a question. 
+If you get the question right you get the points selected and if you get it wrong then you don't get the points. 
+It is a two-player game and whoever gets the most points wins the game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Run it Online
 
-### Markdown
+[RUN](https://repl.it/@VirendraJethra/Jeopardy-Game#Main.java) . The format is not proper but the code works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Requirements
 
-```markdown
-Syntax highlighted code block
+-Java 3.0 or higher 
+-Code editor
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vsjethra/JeopardyGame/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Created
+By: Virendra Jethra
