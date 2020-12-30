@@ -10,8 +10,7 @@ It is a two-player game and whoever gets the most points wins the game.
 
 ### Requirements
 
--Java 3.0 or higher 
--Code editor
+-Java 3.0 or higher and code editor
 
 ### Created
 By: Virendra Jethra
